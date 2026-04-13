@@ -1,32 +1,21 @@
-# Retail Profitability Dashboard
+# Data Analytics Portfolio
 
-Interactive Tableau dashboard analyzing retail sales and profitability across regions, categories, and products using the Sample Superstore dataset.
+A collection of business intelligence dashboards and analytics projects across multiple industries.
 
-## Live Dashboard
-[View Tableau Public Dashboard](https://public.tableau.com/app/profile/sravani.kadiyala/viz/RetailProfitabilityDashboard-SravaniKadiyala/Dashboard1?publish=yes)
+## Projects
 
-## Project Overview
-This dashboard evaluates retail performance to identify profitability drivers and margin leakage across business segments.
+### Retail Analytics
 
-## Business Questions Answered
-- Which product categories generate the most profit?
-- Which regions perform best and worst?
-- How do discounts impact profit margins?
-- Which products contribute most to overall profitability?
-- How are sales and profits trending over time?
+* Retail Profitability Dashboard
+* [View Project](./Retail-Analytics)
 
-## Key Insights
-- Furniture drives high revenue but lower margins
-- Technology delivers stronger and more consistent profitability
-- Discounting negatively impacts margins across several segments
-- Profitability varies significantly by region
+### Finance Analytics
 
-## Tools Used
-- Tableau
-- Data Visualization
-- KPI Design
-- Business Analytics
-- Dashboard Storytelling
+* Banking Transaction Risk & Customer Behavior Dashboard
+* [View Project](./Finance-Analytics)
 
-## Author
-**Sravani Kadiyala**
+### Coming Soon
+
+* HR Analytics Dashboard
+* Healthcare Analytics Dashboard
+* Supply Chain Analytics Dashboard
